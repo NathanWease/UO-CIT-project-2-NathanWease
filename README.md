@@ -1,5 +1,5 @@
-# project-2-jchacko15
-project-2-jchacko15 created by GitHub Classroom
+# project-2-NathanWease
+project-2-NathanWease created by GitHub Classroom
 
 <!DOCTYPE html>
 <html lang="en">
@@ -16,6 +16,7 @@ project-2-jchacko15 created by GitHub Classroom
   <ol>
     <li>Creating a function that reverses the letters and words in a sentence.</li>
     <li>Flickr Image Gallery.</li>
+    <li>IMPORTANT: This work is not my own. I e-mailed Prof. Hennessy about not being able to create my project 2 repository. The next day I saw in my repos: "project-2-jchacko15". I created my own repo with my Github username and imported the files from this 'jchacko15' repo. I haven't yet checked if this is another student's work or the source code. Please do not give me credit for this assignment yet. I will update this when I ensure all work on this repo is my own. Thank you. **04-28-2020 20:05**
   </ol>
 </header>
 
