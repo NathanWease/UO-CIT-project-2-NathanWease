@@ -11,7 +11,6 @@ project-2-NathanWease created by GitHub Classroom
  </head>
 
 <body>
-<header>
   <h2>281 Project 2 Learning Outcomes</h2>
   <ul>
     <li>Creating a function that reverses the letters and words in a sentence.</li>
@@ -28,19 +27,16 @@ project-2-NathanWease created by GitHub Classroom
       </ol>
 
   </ul>
-</header>
 
-<header>
   <h2>281 Project 1 Learning Outcomes</h2>
-    <ol>
+    <ul>
       <li>Basic Unix Shell commands</li>
       <li>Install and configure Git using the Unix Shell</li>
       <li>Basic Git Commands (add, commit, push, clone)</li>
       <li>Github overview</li>
       <li>Markdown language for README files</li>
       <li>Javascript ES6+ features</li>
-    </ol>
+    </ul>
   </body>
-<header>
 
 </html>
