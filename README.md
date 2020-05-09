@@ -36,6 +36,7 @@ project-2-NathanWease created by GitHub Classroom
       <li>Github overview</li>
       <li>Markdown language for README files</li>
       <li>Javascript ES6+ features</li>
+      <li> I also learned that I really, REALLY, need to start working on these projects early</li>
     </ul>
   </body>
 
