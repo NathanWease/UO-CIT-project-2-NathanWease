@@ -21,7 +21,11 @@ project-2-NathanWease created by GitHub Classroom
     <li>A web API can be accessed programmatically using JavaScript</li>
     <li>The API documentation must first be consulted in order to understand how the API works and what it returns</li>
     <li>Some web APIs are public, and others require an access key.  Flickr offers several public APIs</li>
-    <li>IMPORTANT: This work is not my own. I e-mailed Prof. Hennessy about not being able to create my project 2 repository. The next day I saw in my repos: "project-2-jchacko15". I created my own repo with my Github username and imported the files from this 'jchacko15' repo. I haven't yet checked if this is another student's work or the source code. Please do not give me credit for this assignment yet. I will update this when I ensure all work on this repo is my own. Thank you. **04-28-2020 20:05**</li>
+    <ol>
+      <li>IMPORTANT: This work is not my own. I e-mailed Prof. Hennessy about not being able to create my project 2 repository. The next day I saw in my repos: "project-2-jchacko15". I created my own repo with my Github username and imported the files from this 'jchacko15' repo. I haven't yet checked if this is another student's work or the source code. Please do not give me credit for this assignment yet. I will update this when I ensure all work on this repo is my own. Thank you. **04-28-2020 20:05**</li>
+      <li>Requirement 4 has been done by myself **05-08-2020 19:30**</li>
+      </ol>
+
   </ul>
 </header>
 
