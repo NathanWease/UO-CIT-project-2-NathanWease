@@ -13,8 +13,6 @@ project-2-NathanWease created by GitHub Classroom
 <body>
   <h2>281 Project 2 Learning Outcomes</h2>
   <ul>
-    <li>Creating a function that reverses the letters and words in a sentence.</li>
-    <li>Flickr Image Gallery.</li>
     <li>A web API or Application Programming Interface is an API accessed using the HTTP protocol</li>
     <li>Web APIs often deliver data formatted as JSON</li>
     <li>A web API can be accessed programmatically using JavaScript</li>
