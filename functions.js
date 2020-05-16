@@ -1,85 +1,39 @@
-//Project 2 part case(Step 3 part A)
-
-function revWords1(sentence){
-wordarray = sentence.split(" ");
-newsentence = "";
-for (i = 0; i < wordarray.length; i++){
-  newword = "";
-  x = wordarray[i].length;
-for(j = 0; j < x; j++){
-newword = newword + wordarray[i].charAt(x-j-1);
-
+//Requirement 3 a.
+revWords1 = (s) => {
+  let input = s.split(" ");
+  let result = "";
+  for (i = 0; i < input.length; i++) {
+    addition = "";
+    x = input[i].length;
+    for (ii = 0; ii < x; ii++) {
+      addition += input[i].charAt(x - ii - 1);
+    }
+    result += addition + " ";
+  }
+  return result;
 }
 
-newsentence = newsentence + newword +" ";
+console.log(revWords1("Web App Dev"));
+console.log(revWords1("Delta Echo"));
+
+//Requirement 3 b.
+/*
+I could not figure out how to use the Array.forEach method to achieve the desired result.
+*/
+
+//Requirement 3 c.
+revWords3 = (s) => {
+  input = s.split(" ");
+  result = "";
+  for (const i of input) {
+    x = i.length;
+    addition = "";
+    for (ii = 0; ii < x; ii++) {
+      addition = addition + i.charAt(x - ii - 1);
+    }
+    result += addition + " ";
+  }
+  return result;
 }
-
-return newsentence;
-
-}
-
-revWords1("Web App Dev");
-
-//Project 2 part(Step 3 part b)
-
-function revWords2(sentence){
-function reverseword(item,index,array){
-  newword = "";
-for(i = 0; i < item.length; i++){
-
-newword = newword + item.charAt(item.length-1-i);
-}
-
-array[index] = newword;
-}
-
-sentence = sentence.split(" ");
-sentence.forEach(reverseword);
-
-return sentence;
-
-}
-
-revWords2("Hello World");
-
-//Project 2 part(Step 3 part c)
-revWords3 = (sentence) => {
-wordarray = sentence.split(" ");
-newsentence = "";
-for (const z of wordarray){
-  x = z.length;
-  newword = "";
-for (j = 0; j < x; j++){
-newword = newword+ z.charAt(x-j-1);
-
-}
-
-newsentence = newsentence + newword + " ";
-}
-
-
-
-return newsentence;
-
-}
-revWords3("Delta Echo");
-
-//functions.js XC
-containDuplicates = (sentence) => {
-wordarray = sentence.split(" ");
-newsentence = "";
-for (const z of wordarray){
-  x = z.length;
-  newword = "";
-for(j = 0; j < x; j++){
-newword = newword+ z.charAt(x-j-1);
-
-}
-
-newsentence = newsentence + newword + " ";
-}
-
-return newsentence;
-
-}
-containDuplicates("Hello World");
+console.log(revWords3("Web App Dev"));
+console.log(revWords3("Delta Echo"));
