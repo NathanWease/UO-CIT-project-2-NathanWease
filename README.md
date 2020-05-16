@@ -23,7 +23,8 @@ project-2-NathanWease created by GitHub Classroom
       <li>PLEASE ONLY GIVE ME CREDIT FOR THE FOLLOWING:</li>
       <li>I will update this when I ensure all work on this repo is my own. Thank you. **04-28-2020 20:05**</li>
       <li>Requirement 4 has been done by myself **05-08-2020 19:30**</li>
-      <li>Requirement 3 has been done by myslef **05-15-2020 20:28**</li>
+      <li>Requirement 3 has been done by myself **05-15-2020 20:28**</li>
+      <li>Requirement 2 has been done as far as it could. There were some problems I couldn't figure out how to fix. This is likely because the code I was given was already altered by another student and it was impossible for me to figure out what I had to change and what the other student changed. To the best of my knowledge, I completed the lab up until step 7. **05-15-2020 20:52**</li>
       </ol>
 
   </ul>
