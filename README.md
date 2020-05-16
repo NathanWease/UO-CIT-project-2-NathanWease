@@ -26,6 +26,7 @@ project-2-NathanWease created by GitHub Classroom
       <li>Requirement 3 has been done by myself **05-15-2020 20:28**</li>
       <li>Requirement 2 has been done as far as it could. There were some problems I couldn't figure out how to fix. This is likely because the code I was given was already altered by another student and it was impossible for me to figure out what I had to change and what the other student changed. To the best of my knowledge, I completed the lab up until step 7. **05-15-2020 20:52**</li>
       </ol>
+      <li>To reiterate, the only requirements I should recieve credit for are: 2, 3, and 4. Thank you</li>
 
   </ul>
 
