@@ -6,7 +6,7 @@ let requestURL = "https://thejsway-server.herokuapp.com/api/articles";
 
 $.getJSON(requestURL, function(response) {
   console.log(response);
-
+/*
   console.log(`Article ${response[0].id}
     Title: ${response[0].title}
     Content: ${response[0].comment}`);
@@ -28,4 +28,5 @@ $.getJSON(requestURL, function(response) {
       newDiv.appendChild(contentPar);
 
     };
-};
+    */
+});

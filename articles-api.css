@@ -8,12 +8,12 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   grid-template-rows: auto auto;
   background-color: #fff;
-  color: #444;
+  color: #FFF;
 }
 
 .box {
   background-color: #444;
-  color: #444;
+  color: #FFF;
   border-radius: 5px;
   padding: 20px;
   font-size: 150%;
@@ -30,7 +30,7 @@ body {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  grid-template-rows: repeat(2, 100px);
+  grid-template-rows: repeat(2, auto);
 }
 
 .c {
@@ -40,5 +40,5 @@ body {
 
 button {
   font: bold 24px Arial;
-  background-color: black;
+  background-color: white;
 }
